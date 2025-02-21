@@ -38,5 +38,6 @@ public class nilaiMahasiswa {
             System.out.println("Keterangan: " + keterangan);
         }
         input.close();
+        
     }
 }

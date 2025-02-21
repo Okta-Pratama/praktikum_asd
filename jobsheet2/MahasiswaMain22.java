@@ -16,7 +16,7 @@ public class MahasiswaMain22 {
       mhs2.updateIpk(3.80);
       mhs2.tampilkanInformasi();
       
-      Mahasiswa22 mhsokta = new Mahasiswa22("Okta Pratama", "2141720160", 3.25, "TI 1e");
+      Mahasiswa22 mhsokta = new Mahasiswa22("OktaPratama", "2141720160", 3.25, "TI 1e");
       mhsokta.tampilkanInformasi();
   }
 

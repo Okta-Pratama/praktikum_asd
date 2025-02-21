@@ -39,4 +39,5 @@ public class arrayIPMatkul {
         }
         input.close();
     }
+    
 }

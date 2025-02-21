@@ -36,8 +36,8 @@ public class Mahasiswa22 {
             return "Kurang";
         } 
     }
-
     public Mahasiswa22 () {}
+
     public Mahasiswa22 (String nm, String nim, double ipk, String kls) { 
         nama = nm;
         this.nim = nim;
